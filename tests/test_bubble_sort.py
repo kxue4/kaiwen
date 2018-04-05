@@ -5,7 +5,7 @@
 # @File    : test_bubble_sort.py
 # @Software: PyCharm
 import unittest
-from python100.bubble_sort import bubble_sort
+from bubble_sort import bubble_sort
 
 
 class TestBubbleSort(unittest.TestCase):
