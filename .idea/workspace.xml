@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="448a6c22-8578-46ea-8702-3638e8656df9" name="Default" comment="" />
+    <list default="true" id="448a6c22-8578-46ea-8702-3638e8656df9" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/test_word_filter.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/word_filter.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/tests/.pytest_cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/tests/.pytest_cache/v/cache/lastfailed" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,26 +15,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python100$py_test_in_test_bubble_sort_py.coverage" NAME="py.test in test_bubble_sort.py Coverage Results" MODIFIED="1522888687520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/python100$word_filter.coverage" NAME="word_filter Coverage Results" MODIFIED="1523494650120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python100$py_test_in_test_word_filter_py.coverage" NAME="py.test in test_word_filter.py Coverage Results" MODIFIED="1523495036025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/python100$py_test_in_test_bubble_sort_py.coverage" NAME="py.test in test_bubble_sort.py Coverage Results" MODIFIED="1523494152703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="test_bubble_sort.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/test_bubble_sort.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="word_filter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/word_filter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            <state relative-caret-position="150">
+              <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <file leaf-file-name="test_word_filter.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/test_word_filter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="210">
+              <caret line="14" column="69" lean-forward="false" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+              <folding>
+                <element signature="e#151#166#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,8 +51,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tests/test_bubble_sort.py" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/tests/test_bubble_sort.py" />
+        <option value="$PROJECT_DIR$/word_filter.py" />
+        <option value="$PROJECT_DIR$/tests/test_word_filter.py" />
       </list>
     </option>
   </component>
@@ -54,7 +65,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+    <option name="x" value="212" />
+    <option name="y" value="119" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -76,7 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,10 +95,16 @@
               <item name="python100" type="b2602c69:ProjectViewProjectNode" />
               <item name="python100" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python100" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python100" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -113,7 +130,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.py.test in test_word_filter.py">
+    <configuration name="word_filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python100" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/word_filter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="py.test in test_bubble_sort.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,9 +166,32 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_bubble_sort.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <configuration name="py.test in test_word_filter.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python100" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_word_filter.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_bubble_sort.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_word_filter.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.word_filter" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_bubble_sort.py" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_word_filter.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python.word_filter" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_bubble_sort.py" />
       </list>
     </recent_temporary>
   </component>
@@ -189,35 +248,59 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_bubble_sort_py - 2018.04.04 at 20h 34m 14s.xml">
-      <configuration name="py.test in test_bubble_sort.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_word_filter_py - 2018.04.11 at 20h 57m 47s.xml">
+      <configuration name="py.test in test_word_filter.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_bubble_sort_py - 2018.04.04 at 20h 38m 08s.xml">
-      <configuration name="py.test in test_bubble_sort.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_word_filter_py - 2018.04.11 at 20h 58m 20s.xml">
+      <configuration name="py.test in test_word_filter.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_word_filter_py - 2018.04.11 at 20h 59m 28s.xml">
+      <configuration name="py.test in test_word_filter.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_word_filter_py - 2018.04.11 at 20h 59m 58s.xml">
+      <configuration name="py.test in test_word_filter.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_word_filter_py - 2018.04.11 at 21h 00m 57s.xml">
+      <configuration name="py.test in test_word_filter.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_word_filter_py - 2018.04.11 at 21h 01m 39s.xml">
+      <configuration name="py.test in test_word_filter.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_word_filter_py - 2018.04.11 at 21h 01m 58s.xml">
+      <configuration name="py.test in test_word_filter.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_word_filter_py - 2018.04.11 at 21h 02m 54s.xml">
+      <configuration name="py.test in test_word_filter.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_word_filter_py - 2018.04.11 at 21h 03m 40s.xml">
+      <configuration name="py.test in test_word_filter.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_word_filter_py - 2018.04.11 at 21h 03m 56s.xml">
+      <configuration name="py.test in test_word_filter.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23104435" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23390558" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -276,6 +359,40 @@
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_bubble_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_word_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="69" lean-forward="false" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+          <folding>
+            <element signature="e#151#166#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
