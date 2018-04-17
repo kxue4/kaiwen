@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="448a6c22-8578-46ea-8702-3638e8656df9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/bubble_sort.py" afterPath="$PROJECT_DIR$/bubble_sort.py" />
-      <change beforePath="$PROJECT_DIR$/multiline_input.py" afterPath="$PROJECT_DIR$/multiline_input.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -295,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523495184431</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update">
+      <created>1524007463934</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1524007463934</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -388,9 +393,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update" />
     <MESSAGE value="update .travis.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update .travis.yml" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
