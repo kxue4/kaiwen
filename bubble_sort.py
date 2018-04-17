@@ -6,16 +6,16 @@
 # @Software: PyCharm
 
 
-def bubble_sort(list):
-    n = len(list)
+def bubble_sort(foo):
+    n = len(foo)
     count = 0
 
     for j in range(n - 1):
 
         for i in range(0, n - 1 - j):
 
-            if list[i] > list[i + 1]:
-                list[i], list[i + 1] = list[i + 1], list[i]
+            if foo[i] > foo[i + 1]:
+                foo[i], foo[i + 1] = foo[i + 1], foo[i]
                 count += 1
 
-    return list, count
+    return foo, count

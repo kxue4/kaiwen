@@ -4,12 +4,18 @@
 # @Author  : Kaiwen Xue
 # @File    : multiline_input.py
 # @Software: PyCharm
-lines = []
-words = input("enter ':q' to save and quit):")
 
-while words != ':q':
 
-    line = lines.append(words)
-    words = input()
+def multiline_input():
+    lines = []
+    words = input("enter ':q' to save and quit):")
 
-print(lines)
+    while words != ':q':
+
+        lines.append(words)
+        words = input()
+
+    return lines
+
+
+print(multiline_input())
