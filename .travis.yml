@@ -6,4 +6,4 @@ python:
 script:
  - python -m unittest tests.test_bubble_sort
  - python -m unittest tests.test_word_filter
-
+ - python -m unittest tests.test_recursion
