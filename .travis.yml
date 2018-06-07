@@ -7,3 +7,5 @@ script:
  - python -m unittest tests.test_bubble_sort
  - python -m unittest tests.test_word_filter
  - python -m unittest tests.test_recursion
+ - python -m unittest tests.test_merge_dicts
+ - python -m unittest tests.calculate_pi
