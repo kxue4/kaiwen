@@ -8,16 +8,14 @@
 
 def merge_dicts(*args):
     n = len(args)
-    i = 1
+    i = 0
+    result = {}
+
     while i < n:
 
         for key, value in args[i].items():
-
-            if key in args[0].keys():
-                args[0][key] += value
-            else:
-                args[0][key] = value
+            result[key] = value + result.get(key, 0)
 
         i += 1
 
-    return args[0]
+    return result
