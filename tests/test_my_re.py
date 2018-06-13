@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/6/13 10:25
 # @Author  : Kaiwen Xue
-# @File    : test_re.py
+# @File    : test_my_re.py
 # @Software: PyCharm
 import unittest
 from my_re import extract_chinese_character, extract_numbers
