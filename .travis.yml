@@ -9,3 +9,4 @@ script:
  - python -m unittest tests.test_recursion
  - python -m unittest tests.test_merge_dicts
  - python -m unittest tests.test_calculate_pi
+ - python -m unittest tests.test_re
