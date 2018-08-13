@@ -5,7 +5,7 @@
 # @File    : test_my_re.py
 # @Software: PyCharm
 import unittest
-from my_re import extract_chinese_character, extract_numbers
+from Kaiwen.my_re import extract_chinese_character, extract_numbers
 
 
 class TestMyRE(unittest.TestCase):

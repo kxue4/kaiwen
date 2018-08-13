@@ -5,7 +5,7 @@
 # @File    : test_merge_dicts.py
 # @Software: PyCharm
 import unittest
-from merge_dicts import merge_dicts
+from Kaiwen.merge_dicts import merge_dicts
 
 
 class TestTagsSummary(unittest.TestCase):

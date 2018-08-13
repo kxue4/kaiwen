@@ -6,7 +6,7 @@
 # @Software: PyCharm
 import unittest
 from unittest import mock
-from word_filter import word_replace
+from Kaiwen.word_filter import word_replace
 
 
 class TestWordFilter(unittest.TestCase):

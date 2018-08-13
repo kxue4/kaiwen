@@ -12,13 +12,14 @@ def get_user_input():
 
 
 def word_replace():
+    file = open('source/SensitiveWords.txt')
+    words = file.readlines()
     user_input = get_user_input()
-    filter_list = ['fuck', 'shit', 'stupid', 'kill']
+    filter_list = [word.strip() for word in words]
 
     for i in filter_list:
         number_of_star = len(i)
         user_input = user_input.replace(i, '*' * number_of_star)
 
     return user_input
-
 

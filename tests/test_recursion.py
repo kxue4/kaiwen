@@ -5,7 +5,7 @@
 # @File    : test_recursion.py
 # @Software: PyCharm
 import unittest
-from recursion import sum_it, quick_sort
+from Kaiwen.recursion import sum_it, quick_sort
 
 
 class TestRecursion(unittest.TestCase):

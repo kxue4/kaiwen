@@ -5,7 +5,7 @@
 # @File    : test_bubble_sort.py
 # @Software: PyCharm
 import unittest
-from bubble_sort import bubble_sort
+from Kaiwen.bubble_sort import bubble_sort
 
 
 class TestBubbleSort(unittest.TestCase):

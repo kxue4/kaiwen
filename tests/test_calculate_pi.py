@@ -5,7 +5,7 @@
 # @File    : test_calculate_pi.py
 # @Software: PyCharm
 import unittest
-from calculate_pi import calculate_pi
+from Kaiwen.calculate_pi import calculate_pi
 
 
 class TestCalculatePi(unittest.TestCase):
