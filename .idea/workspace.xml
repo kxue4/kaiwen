@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="448a6c22-8578-46ea-8702-3638e8656df9" name="Default" comment="" />
+    <list default="true" id="448a6c22-8578-46ea-8702-3638e8656df9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +29,8 @@
     <SUITE FILE_PATH="coverage/python100$py_test_in_test_bubble_sort_py.coverage" NAME="py.test in test_bubble_sort.py Coverage Results" MODIFIED="1527148758183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/python100$word_cloud.coverage" NAME="word_cloud Coverage Results" MODIFIED="1534147002586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python100$py_test_in_test_calculate_pi_py.coverage" NAME="py.test in test_calculate_pi.py Coverage Results" MODIFIED="1534147724697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/python100$word_filter.coverage" NAME="word_filter Coverage Results" MODIFIED="1524006211522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python100$merge_dicts.coverage" NAME="merge_dicts Coverage Results" MODIFIED="1528360557329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python100$word_filter.coverage" NAME="word_filter Coverage Results" MODIFIED="1534152208175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kaiwen" />
     <SUITE FILE_PATH="coverage/python100$ttt.coverage" NAME="ttt Coverage Results" MODIFIED="1525554346472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python100$pie.coverage" NAME="pie Coverage Results" MODIFIED="1525554403285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python100$py_test_in_test_merge_dicts_py.coverage" NAME="py.test in test_merge_dicts.py Coverage Results" MODIFIED="1528360765980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
@@ -48,24 +51,40 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
-              </first_editor>
-              <second_editor />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test_recursion.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/test_recursion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calculate_pi.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/calculate_pi.py">
+      <file leaf-file-name="word_cloud.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Kaiwen/word_cloud.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            <state relative-caret-position="-172">
+              <folding>
+                <element signature="e#147#178#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.rst">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -103,8 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tests/test_bubble_sort.py" />
-        <option value="$PROJECT_DIR$/tests/test_word_filter.py" />
         <option value="$PROJECT_DIR$/generate_coupon.py" />
         <option value="$PROJECT_DIR$/generate_uuid.py" />
         <option value="$PROJECT_DIR$/insert_sort.py" />
@@ -115,22 +132,18 @@
         <option value="$PROJECT_DIR$/binary_search.py" />
         <option value="$PROJECT_DIR$/DnC.py" />
         <option value="$PROJECT_DIR$/data_script.py" />
-        <option value="$PROJECT_DIR$/tests/test_recursion.py" />
         <option value="$PROJECT_DIR$/tests/test_tags_summary.py" />
-        <option value="$PROJECT_DIR$/tests/test_merge_dicts.py" />
         <option value="$PROJECT_DIR$/recursion.py" />
         <option value="$PROJECT_DIR$/tests/test_word_replace.py" />
         <option value="$PROJECT_DIR$/word_filter.py" />
         <option value="$PROJECT_DIR$/pie.py" />
         <option value="$PROJECT_DIR$/tests/.pytest_cache/test_calculate_pi.py" />
-        <option value="$PROJECT_DIR$/tests/test_calculate_pi.py" />
         <option value="$PROJECT_DIR$/merge_dicts.py" />
         <option value="$PROJECT_DIR$/python_GUI.py" />
         <option value="$PROJECT_DIR$/kkpackage.py" />
         <option value="$PROJECT_DIR$/re.py" />
         <option value="$PROJECT_DIR$/my_re.py" />
         <option value="$PROJECT_DIR$/tests/test_re.py" />
-        <option value="$PROJECT_DIR$/tests/test_my_re.py" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/source/chineseStopWords.txt" />
         <option value="$PROJECT_DIR$/source/word_cloud_text.txt" />
@@ -138,6 +151,14 @@
         <option value="$PROJECT_DIR$/calculate_pi.py" />
         <option value="$PROJECT_DIR$/multiline_input.py" />
         <option value="$PROJECT_DIR$/word_cloud.py" />
+        <option value="$PROJECT_DIR$/tests/test_bubble_sort.py" />
+        <option value="$PROJECT_DIR$/tests/test_calculate_pi.py" />
+        <option value="$PROJECT_DIR$/tests/test_merge_dicts.py" />
+        <option value="$PROJECT_DIR$/tests/test_my_re.py" />
+        <option value="$PROJECT_DIR$/tests/test_recursion.py" />
+        <option value="$PROJECT_DIR$/tests/test_word_filter.py" />
+        <option value="$PROJECT_DIR$/Kaiwen/source/SensitiveWords.txt" />
+        <option value="$PROJECT_DIR$/Kaiwen/word_filter.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -164,7 +185,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,12 +195,13 @@
             <path>
               <item name="python100" type="b2602c69:ProjectViewProjectNode" />
               <item name="python100" type="462c0819:PsiDirectoryNode" />
-              <item name="Kaiwen" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -215,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.multiline_input">
+  <component name="RunManager" selected="Python.word_filter">
     <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python100" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,7 +294,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="python_GUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="word_filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,12 +302,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kaiwen" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_GUI.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kaiwen/word_filter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,19 +329,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python.python_GUI" />
       <item itemvalue="Python.123" />
       <item itemvalue="Python.calculate_pi" />
       <item itemvalue="Python tests.py.test in test_calculate_pi.py" />
       <item itemvalue="Python.multiline_input" />
+      <item itemvalue="Python.word_filter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.word_filter" />
         <item itemvalue="Python.multiline_input" />
         <item itemvalue="Python tests.py.test in test_calculate_pi.py" />
         <item itemvalue="Python.calculate_pi" />
         <item itemvalue="Python.123" />
-        <item itemvalue="Python.python_GUI" />
       </list>
     </recent_temporary>
   </component>
@@ -524,7 +545,28 @@
       <option name="project" value="LOCAL" />
       <updated>1534151440998</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Update to Pypi package structure">
+      <created>1534151800549</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1534151800549</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Update to Pypi package structure">
+      <created>1534151807478</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1534151807478</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Minor update">
+      <created>1534152252553</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1534152252553</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -579,10 +621,9 @@
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.2897436" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.55078685" weight="0.32307693" />
       <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32948717" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22103004" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22389127" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32948717" />
       <window_info anchor="right" id="SciView" order="4" weight="0.25107297" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -591,9 +632,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32948717" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.32992327" />
     </layout>
   </component>
@@ -633,9 +675,10 @@
     <MESSAGE value="update .travis.yml" />
     <MESSAGE value="update" />
     <MESSAGE value="Add wordcloud" />
-    <MESSAGE value="Minor update" />
     <MESSAGE value="Add Pypi badge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Pypi badge" />
+    <MESSAGE value="Update to Pypi package structure" />
+    <MESSAGE value="Minor update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -643,36 +686,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/word_cloud.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_GUI.py" />
-    <entry file="file://$PROJECT_DIR$/python_GUI.py" />
-    <entry file="file://$PROJECT_DIR$/recursion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recursion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recursion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recursion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -785,43 +798,8 @@
     <entry file="file://$PROJECT_DIR$/ttt.py" />
     <entry file="file://$PROJECT_DIR$/multithread.py" />
     <entry file="file://$PROJECT_DIR$/data_script.py" />
-    <entry file="file://$PROJECT_DIR$/tests/test_recursion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_word_replace.py" />
-    <entry file="file://$PROJECT_DIR$/tests/test_bubble_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_word_filter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kkpackage.py" />
-    <entry file="file://$PROJECT_DIR$/tests/test_merge_dicts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_my_re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -845,13 +823,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/123.py" />
-    <entry file="file://$PROJECT_DIR$/tests/test_calculate_pi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bubble_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -908,20 +879,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/calculate_pi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_bubble_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_calculate_pi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_merge_dicts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_my_re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#147#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_word_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#151#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kaiwen/source/SensitiveWords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="1388" column="3" lean-forward="true" selection-start-line="1388" selection-start-column="3" selection-end-line="1388" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kaiwen/word_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kaiwen/bubble_sort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_recursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kaiwen/my_re.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kaiwen/word_cloud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172">
+          <folding>
+            <element signature="e#147#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rst">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
