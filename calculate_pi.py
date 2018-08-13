@@ -5,7 +5,6 @@
 # @File    : calculate_pi.py
 # @Software: PyCharm
 from __future__ import division
-import datetime
 
 
 def calculate_pi(digits):
@@ -24,12 +23,5 @@ def calculate_pi(digits):
     pi = he * 4
     pi //= 10 ** 10
     pi = str(pi)[0] + str('.') + str(pi)[1:len(str(pi))]
+
     return pi
-
-
-if __name__ == '__main__':
-    digits = int(input('Please enter the digits you want calculate: '))
-    start=datetime.datetime.now()
-    print('Pi =', calculate_pi(digits))
-    end=datetime.datetime.now()
-    print('\nTotal calculating time', end - start)

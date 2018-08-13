@@ -8,7 +8,7 @@
 
 def multiline_input():
     lines = []
-    words = input("enter ':q' to save and quit):")
+    words = input("Please input multiple lines, start a new line and input ':q' to save and quit:")
 
     while words != ':q':
 
@@ -16,6 +16,3 @@ def multiline_input():
         words = input()
 
     return lines
-
-
-print(multiline_input())

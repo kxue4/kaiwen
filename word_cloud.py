@@ -28,6 +28,3 @@ def draw_wordcloud():
     plt.axis('off')
     plt.show()
 
-
-if __name__ == '__main__':
-    draw_wordcloud()
