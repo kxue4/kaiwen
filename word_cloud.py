@@ -5,11 +5,8 @@
 # @File    : word_cloud.py
 # @Software: PyCharm
 from wordcloud import WordCloud
-import codecs
 import jieba
 from imageio import imread
-import os
-from os import path
 import matplotlib.pyplot as plt
 
 

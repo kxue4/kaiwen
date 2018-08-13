@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="448a6c22-8578-46ea-8702-3638e8656df9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/PingFang Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/chineseStopWords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/word_cloud_text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word_cloud.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +26,7 @@
     <SUITE FILE_PATH="coverage/python100$py_test_in_test_re_py.coverage" NAME="py.test in test_re.py Coverage Results" MODIFIED="1528856909470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/python100$py_test_in_test_bubble_sort_py.coverage" NAME="py.test in test_bubble_sort.py Coverage Results" MODIFIED="1527148758183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/python100$py_test_in_test_calculate_pi_py.coverage" NAME="py.test in test_calculate_pi.py Coverage Results" MODIFIED="1528440391153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/python100$word_cloud.coverage" NAME="word_cloud Coverage Results" MODIFIED="1534146906918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python100$word_cloud.coverage" NAME="word_cloud Coverage Results" MODIFIED="1534147002586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python100$word_filter.coverage" NAME="word_filter Coverage Results" MODIFIED="1524006211522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python100$merge_dicts.coverage" NAME="merge_dicts Coverage Results" MODIFIED="1528360557329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python100$ttt.coverage" NAME="ttt Coverage Results" MODIFIED="1525554346472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -60,20 +53,11 @@
       <file leaf-file-name="word_cloud.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/word_cloud.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            <state relative-caret-position="375">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="e#147#178#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="word_cloud_text.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/word_cloud_text.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" column="36" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -502,7 +486,21 @@
       <option name="project" value="LOCAL" />
       <updated>1528860785430</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Add wordcloud">
+      <created>1534146942647</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1534146942647</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add wordcloud">
+      <created>1534146951091</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1534146951091</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -548,19 +546,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32948717" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.44921315" side_tool="true" weight="0.32307693" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.17435898" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.2897436" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.55078685" visible="true" weight="0.32307693" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.55078685" visible="true" weight="0.32307693" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32948717" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21530758" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32948717" />
-      <window_info active="true" anchor="right" id="SciView" order="4" visible="true" weight="0.18383405" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.25107297" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -608,7 +607,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update .travis.yml" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="Add wordcloud" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add wordcloud" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -616,13 +616,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python_GUI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_GUI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -907,6 +900,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/wc_output.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/word_cloud_text.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -916,8 +912,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/word_cloud.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        <state relative-caret-position="375">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="e#147#178#0" expanded="true" />
           </folding>
