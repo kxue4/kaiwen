@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="448a6c22-8578-46ea-8702-3638e8656df9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/source/SensitiveWords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/source/chineseStopWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python100.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kaiwen.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kaiwen/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kaiwen/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kaiwen/generate_coupon.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kaiwen/generate_coupon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kaiwen/my_re.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kaiwen/word_cloud.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kaiwen/word_cloud.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kaiwen/word_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kaiwen/word_filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_my_re.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_word_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_word_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/Kaiwen-0.1.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/dist/Kaiwen-0.1.tar.gz" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,17 +60,8 @@
       <file leaf-file-name="word_filter.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Kaiwen/word_filter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/setup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+            <state relative-caret-position="225">
+              <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -192,6 +172,11 @@
             <path>
               <item name="Kaiwen" type="b2602c69:ProjectViewProjectNode" />
               <item name="python100" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kaiwen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python100" type="462c0819:PsiDirectoryNode" />
+              <item name="Kaiwen" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -569,7 +554,28 @@
       <option name="project" value="LOCAL" />
       <updated>1534152686240</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Version update to v0.2">
+      <created>1534239416500</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1534239416500</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Version update to v0.2">
+      <created>1534239425895</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1534239425895</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Version update to v0.2">
+      <created>1534239566800</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1534239566800</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -615,16 +621,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32948717" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.44921315" side_tool="true" weight="0.32307693" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.17435898" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" visible="true" weight="0.17435898" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.2897436" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.55078685" visible="true" weight="0.32307693" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.55078685" weight="0.32307693" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32948717" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22961374" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22961374" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
       <window_info anchor="right" id="SciView" order="4" weight="0.25107297" />
@@ -681,7 +686,8 @@
     <MESSAGE value="Add Pypi badge" />
     <MESSAGE value="Update to Pypi package structure" />
     <MESSAGE value="Minor update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor update" />
+    <MESSAGE value="Version update to v0.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version update to v0.2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -866,20 +872,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        <state relative-caret-position="406">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Kaiwen/word_filter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        <state relative-caret-position="225">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
         </state>
       </provider>
     </entry>
