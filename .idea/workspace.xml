@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="448a6c22-8578-46ea-8702-3638e8656df9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/source/person.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Kaiwen-0.1.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/dist/Kaiwen-0.1.tar.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kaiwen/source/PingFang Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/source/PingFang Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kaiwen/source/SensitiveWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/source/SensitiveWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kaiwen/source/chineseStopWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/source/chineseStopWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kaiwen/source/round.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kaiwen/word_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kaiwen/word_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/source/SensitiveWords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/source/chineseStopWords.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +25,7 @@
     <SUITE FILE_PATH="coverage/python100$re.coverage" NAME="re Coverage Results" MODIFIED="1528856332998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python100$generate_uuid.coverage" NAME="generate_uuid Coverage Results" MODIFIED="1524699921800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python100$py_test_in_test_word_replace_py.coverage" NAME="py.test in test_word_replace.py Coverage Results" MODIFIED="1528359049887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/Kaiwen$py_test_in_test_word_filter_py.coverage" NAME="py.test in test_word_filter.py Coverage Results" MODIFIED="1534239142694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Kaiwen$py_test_in_test_word_filter_py.coverage" NAME="py.test in test_word_filter.py Coverage Results" MODIFIED="1534241309388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/Kaiwen$generate_coupon.coverage" NAME="generate_coupon Coverage Results" MODIFIED="1534238225640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kaiwen" />
     <SUITE FILE_PATH="coverage/python100$py_test_in_test_bubble_sort_py.coverage" NAME="py.test in test_bubble_sort.py Coverage Results" MODIFIED="1527148758183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/python100$py_test_in_test_calculate_pi_py.coverage" NAME="py.test in test_calculate_pi.py Coverage Results" MODIFIED="1534147724697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
@@ -37,7 +45,7 @@
     <SUITE FILE_PATH="coverage/python100$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1526259200649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python100$multithread.coverage" NAME="multithread Coverage Results" MODIFIED="1526203715424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python100$py_test_in_test_re_py.coverage" NAME="py.test in test_re.py Coverage Results" MODIFIED="1528856909470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/Kaiwen$word_filter.coverage" NAME="word_filter Coverage Results" MODIFIED="1534239071626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kaiwen" />
+    <SUITE FILE_PATH="coverage/Kaiwen$word_filter.coverage" NAME="word_filter Coverage Results" MODIFIED="1534241294695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kaiwen" />
     <SUITE FILE_PATH="coverage/python100$word_cloud.coverage" NAME="word_cloud Coverage Results" MODIFIED="1534147002586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python100$word_filter.coverage" NAME="word_filter Coverage Results" MODIFIED="1534152208175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kaiwen" />
   </component>
@@ -60,8 +68,8 @@
       <file leaf-file-name="word_filter.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Kaiwen/word_filter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+            <state relative-caret-position="165">
+              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -137,10 +145,10 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Kaiwen/generate_coupon.py" />
         <option value="$PROJECT_DIR$/Kaiwen/word_cloud.py" />
-        <option value="$PROJECT_DIR$/tests/test_word_filter.py" />
         <option value="$PROJECT_DIR$/Kaiwen/__init__.py" />
-        <option value="$PROJECT_DIR$/Kaiwen/word_filter.py" />
         <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/tests/test_word_filter.py" />
+        <option value="$PROJECT_DIR$/Kaiwen/word_filter.py" />
       </list>
     </option>
   </component>
@@ -166,6 +174,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,13 +185,17 @@
             <path>
               <item name="Kaiwen" type="b2602c69:ProjectViewProjectNode" />
               <item name="python100" type="462c0819:PsiDirectoryNode" />
-              <item name="Kaiwen" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kaiwen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python100" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,8 +325,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.py.test in test_word_filter.py" />
-        <item itemvalue="Python tests.py.test in tests" />
         <item itemvalue="Python.word_filter" />
+        <item itemvalue="Python tests.py.test in tests" />
         <item itemvalue="Python tests.py.test in test_calculate_pi.py" />
         <item itemvalue="Python.generate_coupon" />
       </list>
@@ -575,7 +588,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534239566800</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Version update to v0.2">
+      <created>1534240266269</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1534240266269</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -629,7 +649,7 @@
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.2897436" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.55078685" weight="0.32307693" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32948717" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22961374" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23247497" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
       <window_info anchor="right" id="SciView" order="4" weight="0.25107297" />
@@ -695,6 +715,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Kaiwen/word_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bubble_sort.py" />
     <entry file="file://$PROJECT_DIR$/bubble_sort.py" />
     <entry file="file://$PROJECT_DIR$/multithread.py" />
@@ -756,13 +783,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_my_re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_my_re.py" />
     <entry file="file://$PROJECT_DIR$/tests/test_bubble_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -794,25 +815,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Kaiwen/my_re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Kaiwen/my_re.py" />
     <entry file="file://$PROJECT_DIR$/Kaiwen/generate_coupon.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding>
-            <element signature="e#150#163#0" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kaiwen/merge_dicts.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Kaiwen/recursion.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -835,23 +844,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Kaiwen/source/SensitiveWords.txt">
+    <entry file="file://$PROJECT_DIR$/source/SensitiveWords.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20820">
           <caret line="1388" column="3" lean-forward="true" selection-start-line="1388" selection-start-column="3" selection-end-line="1388" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/source/SensitiveWords.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/source/chineseStopWords.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_word_filter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -859,9 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-          <folding>
-            <element signature="e#318#360#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -879,13 +872,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/tests/test_word_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="e#151#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Kaiwen/word_filter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        <state relative-caret-position="165">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
         </state>
       </provider>
     </entry>

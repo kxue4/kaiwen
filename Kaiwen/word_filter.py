@@ -4,12 +4,14 @@
 # @Author  : Kaiwen Xue
 # @File    : word_filter.py
 # @Software: PyCharm
+import requests
 
 
 def word_filter(string):
-    file = open('source/SensitiveWords.txt')
-    words = file.readlines()
-    filter_list = [word.strip() for word in words]
+    url = 'https://raw.githubusercontent.com/kxue4/python100/master/Kaiwen/source/SensitiveWords.txt'
+    words = requests.get(url).text
+
+    filter_list = words.split('\n')
 
     for i in filter_list:
         number_of_star = len(i)
