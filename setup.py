@@ -9,7 +9,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='Kaiwen',
-    version='0.1',
+    version='0.2',
     description=(
         "Kaiwen's package, mainly for personal use"
     ),

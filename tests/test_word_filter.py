@@ -5,15 +5,12 @@
 # @File    : test_word_filter.py
 # @Software: PyCharm
 import unittest
-from unittest import mock
-from Kaiwen.word_filter import *
+from Kaiwen.word_filter import word_filter
 
 
 class TestWordFilter(unittest.TestCase):
-    @mock.patch('word_filter.get_user_input')
-    def test_word_filter(self, mock_get_user_input):
-        mock_get_user_input.return_value = 'Holy shit! What the fuck?'
-        self.assertEqual(word_replace(), 'Holy ****! What the ****?')
+    def test_word_filter(self):
+        self.assertEqual(word_filter('Holy shit! What the fuck?'), 'Holy ****! What the ****?')
 
 
 if __name__ == '__main__':

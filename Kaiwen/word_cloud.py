@@ -10,7 +10,7 @@ from imageio import imread
 import matplotlib.pyplot as plt
 
 
-def draw_wordcloud(textfile_name, output_pic_type):
+def wordcloud(textfile_name, output_pic_type):
     comment_text = open(textfile_name+'.txt', 'r').read()
     cut_text = " ".join(jieba.cut(comment_text))
 
@@ -29,7 +29,7 @@ def draw_wordcloud(textfile_name, output_pic_type):
         max_font_size=150
     )
     word_cloud = cloud.generate(cut_text)
-    word_cloud.to_file("source/wc_output.jpg")
+    word_cloud.to_file("wc_output.jpg")
 
     plt.imshow(word_cloud)
     plt.axis('off')

@@ -8,13 +8,13 @@ import random
 import string
 
 
-def generate_coupon():
+def generate_coupon(num, dig_num):
     coupons = []
 
-    for n in range(200):
+    for n in range(num):
         generate = []
 
-        for i in range(8):
+        for i in range(dig_num):
             generate.append(random.choice(string.ascii_uppercase + string.digits))
 
         coupon = ''.join(generate)
