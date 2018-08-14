@@ -3,10 +3,10 @@ setup.py
 Kaiwen/__init__.py
 Kaiwen/bubble_sort.py
 Kaiwen/calculate_pi.py
+Kaiwen/english_format_checker.py
 Kaiwen/generate_coupon.py
 Kaiwen/merge_dicts.py
 Kaiwen/multiline_input.py
-Kaiwen/my_re.py
 Kaiwen/recursion.py
 Kaiwen/word_cloud.py
 Kaiwen/word_filter.py
