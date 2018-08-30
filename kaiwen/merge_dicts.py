@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2018/6/6 11:27
-# @Author  : Kaiwen Xue
+# @Author  : kaiwen Xue
 # @File    : merge_dicts.py
 # @Software: PyCharm
 

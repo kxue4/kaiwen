@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2018/5/24 15:56
-# @Author  : Kaiwen Xue
+# @Author  : kaiwen Xue
 # @File    : test_recursion.py
 # @Software: PyCharm
 import unittest
-from Kaiwen.recursion import sum_it, quick_sort
+from kaiwen.recursion import sum_it, quick_sort
 
 
 class TestRecursion(unittest.TestCase):

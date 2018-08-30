@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2018/8/14 16:48
-# @Author  : Kaiwen Xue
+# @Author  : kaiwen Xue
 # @File    : test_english_format_checker.py
 # @Software: PyCharm
 import unittest

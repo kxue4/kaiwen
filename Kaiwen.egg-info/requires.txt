@@ -1,4 +1,0 @@
-WordCloud
-jieba
-imageio
-matplotlib

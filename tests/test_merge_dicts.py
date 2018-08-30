@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2018/6/7 15:30
-# @Author  : Kaiwen Xue
+# @Author  : kaiwen Xue
 # @File    : test_merge_dicts.py
 # @Software: PyCharm
 import unittest
-from Kaiwen.merge_dicts import merge_dicts
+from kaiwen.merge_dicts import merge_dicts
 
 
 class TestTagsSummary(unittest.TestCase):

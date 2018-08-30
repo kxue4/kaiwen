@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2018/6/7 16:20
-# @Author  : Kaiwen Xue
+# @Author  : kaiwen Xue
 # @File    : test_calculate_pi.py
 # @Software: PyCharm
 import unittest
-from Kaiwen.calculate_pi import calculate_pi
+from kaiwen.calculate_pi import calculate_pi
 
 
 class TestCalculatePi(unittest.TestCase):

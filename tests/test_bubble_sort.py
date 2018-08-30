@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 4/4/18 19:45
-# @Author  : Kaiwen Xue
+# @Author  : kaiwen Xue
 # @File    : test_bubble_sort.py
 # @Software: PyCharm
 import unittest
-from Kaiwen.bubble_sort import bubble_sort
+from kaiwen.bubble_sort import bubble_sort
 
 
 class TestBubbleSort(unittest.TestCase):

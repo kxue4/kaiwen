@@ -1,22 +1,22 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2018/8/13 16:17
-# @Author  : Kaiwen Xue
+# @Author  : kaiwen Xue
 # @File    : setup.py
 # @Software: PyCharm
 from setuptools import setup, find_packages
 
 
 setup(
-    name='Kaiwen',
+    name='kaiwen',
     version='0.2',
     description=(
-        "Kaiwen's package, mainly for personal use"
+        "kaiwen's package, mainly for personal use"
     ),
     long_description=open('README.rst').read(),
-    author='Kaiwen Xue',
+    author='kaiwen Xue',
     author_email='yixian.xue@gmail.com',
-    maintainer='Kaiwen Xue',
+    maintainer='kaiwen Xue',
     maintainer_email='yixian.xue@gmail.com',
     license='BSD License',
     packages=find_packages(),
