@@ -1,5 +1,0 @@
-WordCloud
-jieba
-imageio
-matplotlib
-requests
