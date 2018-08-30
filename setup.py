@@ -9,7 +9,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='kaiwen',
-    version='0.2',
+    version='0.3',
     description=(
         "kaiwen's package, mainly for personal use"
     ),
@@ -21,7 +21,7 @@ setup(
     license='BSD License',
     packages=find_packages(),
     platforms=["all"],
-    url='http://github.com/kxue4/python100',
+    url='http://github.com/kxue4/kaiwen',
     classifiers=[
         "Environment :: MacOS X",
         "Intended Audience :: Developers",
@@ -35,6 +35,7 @@ setup(
         'WordCloud',
         'jieba',
         'imageio',
-        'matplotlib'
+        'matplotlib',
+        'requests'
     ]
 )

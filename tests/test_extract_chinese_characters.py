@@ -5,7 +5,7 @@
 # @File    : test_extract_chinese_characters.py
 # @Software: PyCharm
 import unittest
-from ggre import extract_chinese_characters
+from kaiwen import extract_chinese_characters
 
 
 class TestExtractChineseNumbers(unittest.TestCase):

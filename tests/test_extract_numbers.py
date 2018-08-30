@@ -5,7 +5,7 @@
 # @File    : test_extract_numbers.py
 # @Software: PyCharm
 import unittest
-from ggre import extract_numbers
+from kaiwen import extract_numbers
 
 
 class TestExtractNumbers(unittest.TestCase):
