@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 4/1/18 21:53
-# @Author  : kaiwen Xue
+# @Author  : Kaiwen Xue
 # @File    : bubble_sort.py
 # @Software: PyCharm
 

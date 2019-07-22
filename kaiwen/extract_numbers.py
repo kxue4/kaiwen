@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2018/8/14 10:34
-# @Author  : kaiwen Xue
+# @Author  : Kaiwen Xue
 # @File    : extract_numbers.py
 # @Software: PyCharm
 import re

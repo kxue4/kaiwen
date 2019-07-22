@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2018/5/23 17:52
-# @Author  : kaiwen Xue
+# @Author  : Kaiwen Xue
 # @File    : recursion.py
 # @Software: PyCharm
 from random import randint

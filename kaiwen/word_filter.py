@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 4/11/18 19:45
-# @Author  : kaiwen Xue
+# @Author  : Kaiwen Xue
 # @File    : word_filter.py
 # @Software: PyCharm
 import requests

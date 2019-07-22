@@ -1,7 +1,7 @@
 #!/usr/redundantin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 4/25/18 19:45
-# @Author  : kaiwen Xue
+# @Author  : Kaiwen Xue
 # @File    : calculate_pi.py
 # @Software: PyCharm
 from __future__ import division

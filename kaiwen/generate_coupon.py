@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 4/11/18 19:14
-# @Author  : kaiwen Xue
+# @Author  : Kaiwen Xue
 # @File    : generate_coupon.py
 # @Software: PyCharm
 import random

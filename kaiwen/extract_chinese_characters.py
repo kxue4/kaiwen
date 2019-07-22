@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2018/8/14 10:33
-# @Author  : kaiwen Xue
+# @Author  : Kaiwen Xue
 # @File    : extract_chinese_characters.py
 # @Software: PyCharm
 import re
