@@ -14,11 +14,11 @@ setup(
         "kaiwen's package, mainly for personal use"
     ),
     long_description=open('README.rst').read(),
-    author='kaiwen Xue',
+    author='Kaiwen Xue',
     author_email='yixian.xue@gmail.com',
-    maintainer='kaiwen Xue',
+    maintainer='Kaiwen Xue',
     maintainer_email='yixian.xue@gmail.com',
-    license='BSD License',
+    license='WTF License',
     packages=find_packages(),
     platforms=["all"],
     url='http://github.com/kxue4/kaiwen',
@@ -28,7 +28,7 @@ setup(
         'License :: OSI Approved :: BSD License',
         'Programming Language :: Python',
         'Programming Language :: Python :: Implementation',
-        'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.7',
         'Topic :: Software Development :: Libraries :: Python Modules'
     ],
     install_requires=[
