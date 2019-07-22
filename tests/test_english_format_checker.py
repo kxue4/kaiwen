@@ -5,7 +5,7 @@
 # @File    : test_english_format_checker.py
 # @Software: PyCharm
 import unittest
-from ggre import english_format_checker
+from kaiwen.english_format_checker import english_format_checker
 
 
 class TestEnglishFormatChecker(unittest.TestCase):
