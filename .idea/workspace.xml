@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="448a6c22-8578-46ea-8702-3638e8656df9" name="Default" comment="LICENSE update">
+    <list default="true" id="448a6c22-8578-46ea-8702-3638e8656df9" name="Default" comment="minor update">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/xuekaiwen.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Kaiwen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kaiwen.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaiwen/bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/kaiwen/bubble_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaiwen/calculate_pi.py" beforeDir="false" afterPath="$PROJECT_DIR$/kaiwen/calculate_pi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaiwen/english_format_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/kaiwen/english_format_checker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaiwen/extract_chinese_characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/kaiwen/extract_chinese_characters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaiwen/extract_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/kaiwen/extract_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaiwen/generate_coupon.py" beforeDir="false" afterPath="$PROJECT_DIR$/kaiwen/generate_coupon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaiwen/merge_dicts.py" beforeDir="false" afterPath="$PROJECT_DIR$/kaiwen/merge_dicts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaiwen/multiline_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/kaiwen/multiline_input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaiwen/recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/kaiwen/recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaiwen/word_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/kaiwen/word_filter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/.pytest_cache/v/cache/lastfailed" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,11 +81,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kaiwen/__init__.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kaiwen/multiline_input.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+            <state relative-caret-position="45">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kaiwen/word_filter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -111,14 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/generate_coupon.py" />
-        <option value="$PROJECT_DIR$/generate_uuid.py" />
-        <option value="$PROJECT_DIR$/insert_sort.py" />
-        <option value="$PROJECT_DIR$/ttt.py" />
-        <option value="$PROJECT_DIR$/multithread.py" />
-        <option value="$PROJECT_DIR$/bubble_sort.py" />
-        <option value="$PROJECT_DIR$/MySQLdb.py" />
-        <option value="$PROJECT_DIR$/binary_search.py" />
         <option value="$PROJECT_DIR$/DnC.py" />
         <option value="$PROJECT_DIR$/data_script.py" />
         <option value="$PROJECT_DIR$/tests/test_tags_summary.py" />
@@ -160,6 +173,16 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/kaiwen/extract_chinese_characters.py" />
+        <option value="$PROJECT_DIR$/kaiwen/english_format_checker.py" />
+        <option value="$PROJECT_DIR$/kaiwen/calculate_pi.py" />
+        <option value="$PROJECT_DIR$/kaiwen/bubble_sort.py" />
+        <option value="$PROJECT_DIR$/kaiwen/extract_numbers.py" />
+        <option value="$PROJECT_DIR$/kaiwen/generate_coupon.py" />
+        <option value="$PROJECT_DIR$/kaiwen/merge_dicts.py" />
+        <option value="$PROJECT_DIR$/kaiwen/multiline_input.py" />
+        <option value="$PROJECT_DIR$/kaiwen/recursion.py" />
+        <option value="$PROJECT_DIR$/kaiwen/word_filter.py" />
       </list>
     </option>
   </component>
@@ -360,7 +383,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522887986239</updated>
-      <workItem from="1563773839606" duration="387000" />
+      <workItem from="1563773839606" duration="643000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1522888022856</created>
@@ -649,7 +672,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563774041730</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="minor update">
+      <created>1563774482986</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1563774482986</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -685,7 +715,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="387000" />
+    <option name="totallyTimeSpent" value="643000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -698,13 +728,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24177396" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24177396" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32948717" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.55078685" weight="0.32307693" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.55078685" weight="0.32229298" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -713,9 +744,9 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.44921315" side_tool="true" weight="0.32307693" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.2878981" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32866243" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32866243" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.17324841" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.17324841" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32992327" />
       <window_info anchor="right" id="R Graphics" />
       <window_info anchor="right" id="R Packages" />
@@ -804,7 +835,8 @@
     <MESSAGE value="Version update to v0.2" />
     <MESSAGE value="Version update to v0.3" />
     <MESSAGE value="LICENSE update" />
-    <option name="LAST_COMMIT_MESSAGE" value="LICENSE update" />
+    <MESSAGE value="minor update" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Kaiwen$multiline_input.coverage" NAME="multiline_input Coverage Results" MODIFIED="1563774440559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kaiwen" />
@@ -856,13 +888,6 @@
     <entry file="file://$PROJECT_DIR$/source/SensitiveWords.txt" />
     <entry file="file://$PROJECT_DIR$/Kaiwen/abc.txt" />
     <entry file="file://$PROJECT_DIR$/Kaiwen/word_cloud.py" />
-    <entry file="file://$PROJECT_DIR$/kaiwen/recursion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_word_filter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -883,50 +908,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kaiwen/extract_numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-392" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_extract_chinese_characters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kaiwen/extract_chinese_characters.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kaiwen/english_format_checker.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kaiwen/calculate_pi.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kaiwen/bubble_sort.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kaiwen/generate_coupon.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding>
-            <element signature="e#150#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kaiwen/merge_dicts.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kaiwen/multiline_input.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kaiwen/word_filter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -988,6 +973,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kaiwen/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="72" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaiwen/extract_chinese_characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaiwen/english_format_checker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaiwen/bubble_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaiwen/calculate_pi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaiwen/generate_coupon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="19" />
+          <folding>
+            <element signature="e#150#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaiwen/extract_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaiwen/merge_dicts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -995,10 +1039,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kaiwen/__init__.py">
+    <entry file="file://$PROJECT_DIR$/kaiwen/recursion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="9" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaiwen/multiline_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaiwen/word_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
